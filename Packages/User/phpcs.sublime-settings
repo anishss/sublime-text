@@ -1,0 +1,46 @@
+{
+	"phpcs_additional_args": {
+        "--standard": "PSR2",
+        "-n": ""
+    },
+
+    "phpcbf_executable_path": "/usr/bin/phpcbf",
+
+    "php_cs_fixer_show_quick_panel": true,
+
+    // Path to where you have the php-cs-fixer installed
+    "php_cs_fixer_executable_path": "/usr/bin/php-cs-fixer",
+
+    "phpcbf_show_quick_panel": true,
+
+    // Path to where you have the phpcbf installed
+    "phpcbf_executable_path": "/usr/bin/phpcbf",
+
+    // }
+    "phpcbf_additional_args": {
+        "--standard": "PSR2",
+        "--no-patch":"",
+        "-n": ""
+    },
+
+    "phpmd_run": true,
+
+    // Execute the phpmd on file save
+    "phpmd_command_on_save": true,
+
+    // It seems python/sublime cannot always find the phpmd application
+    // If empty, then use PATH version of phpmd, else use the set value
+    "phpmd_executable_path": "/usr/bin/phpmd",
+
+    // Additional arguments you can specify into the application
+    //
+    // Example:
+    // {
+    //     "codesize,unusedcode"
+    // }
+    "phpmd_additional_args": {
+        "/opt/phpmd_rulesets/phpmd_rules.xml":""
+    },
+
+    "show_debug": true
+}

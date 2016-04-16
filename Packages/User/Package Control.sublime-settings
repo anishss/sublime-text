@@ -1,0 +1,37 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"BracketHighlighter",
+		"Color Highlighter",
+		"Compare Side-By-Side",
+		"DocBlockr",
+		"Emmet",
+		"File History",
+		"FileBrowser",
+		"Function Name Display",
+		"Git",
+		"Local History",
+		"Material Theme",
+		"Materialize",
+		"Package Control",
+		"Phpcs",
+		"PHPUnit Completions",
+		"PlainTasks",
+		"Sublime Bookmarks",
+		"Sublime Text 3 Snippets",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-csslint",
+		"SublimeLinter-jshint",
+		"SublimeLinter-json",
+		"SublimeLinter-php",
+		"SublimeLinter-phpmd",
+		"VCS Gutter",
+		"WordPress",
+		"Xdebug Client"
+	]
+}

@@ -1,0 +1,592 @@
+[04/16/2016 10:53:07AM] INFO - ==== Loading 'Xdebug Client.sublime-package' package ====
+[04/16/2016 10:53:07AM] INFO - Failed to open /home/anish/.config/sublime-text-3/Packages/User/Xdebug.breakpoints.
+[04/16/2016 10:53:07AM] INFO - Failed to parse /home/anish/.config/sublime-text-3/Packages/User/Xdebug.breakpoints.
+[04/16/2016 10:53:07AM] INFO - Failed to open /home/anish/.config/sublime-text-3/Packages/User/Xdebug.expressions.
+[04/16/2016 10:53:07AM] INFO - Failed to parse /home/anish/.config/sublime-text-3/Packages/User/Xdebug.expressions.
+[04/16/2016 11:18:52AM] WARNING - Could not import subprocess32 module, falling back to subprocess module
+[04/16/2016 11:18:53AM] INFO - scan_purelang: path: '/home/anish/project/andrey-listify-customization/wp-vagrant/wordpress/src/wp-content/themes/listify-child/content-single-job_listing.php' lang: PHP
+[04/16/2016 11:19:04AM] INFO - scan_purelang: path: '/home/anish/project/andrey-listify-customization/wp-vagrant/wordpress/src/wp-content/themes/listify-child/content-single-job_listing.php' lang: HTML
+[04/16/2016 11:19:29AM] INFO - scan_purelang: path: '/home/anish/project/andrey-listify-customization/wp-vagrant/wordpress/wp-config.php' lang: PHP
+[04/16/2016 11:19:29AM] INFO - eval 'fal' at wp-config.php#80  <Trigger 'php-complete-functions' at 2773>
+[04/16/2016 11:19:29AM] DEBUG - ext conflict: '.po' for <PO LangInfo> conflicts with the same for <GetText LangInfo> (<PO LangInfo> wins)
+[04/16/2016 11:19:29AM] DEBUG - ext conflict: '.django.html' for <Django Template LangInfo> conflicts with the same for <Django HTML Template LangInfo> (<Django Template LangInfo> wins)
+[04/16/2016 11:19:29AM] DEBUG - ext conflict: '.django.html' for <Django XML Template LangInfo> conflicts with the same for <Django Template LangInfo> (<Django XML Template LangInfo> wins)
+[04/16/2016 11:19:29AM] DEBUG - ext conflict: '.django.html' for <Django XHTML Template LangInfo> conflicts with the same for <Django XML Template LangInfo> (<Django XHTML Template LangInfo> wins)
+[04/16/2016 11:19:29AM] DEBUG - ext update: ext: .py, <Python3 LangInfo> is a minor variant of <Python LangInfo>
+[04/16/2016 11:19:29AM] DEBUG - ext update: found variant for ext .py, li:<Python3 LangInfo>, using:<Python LangInfo>
+[04/16/2016 11:19:29AM] DEBUG - ext update: ext: .pyw, <Python3 LangInfo> is a minor variant of <Python LangInfo>
+[04/16/2016 11:19:29AM] DEBUG - ext update: found variant for ext .pyw, li:<Python3 LangInfo>, using:<Python LangInfo>
+[04/16/2016 11:19:29AM] DEBUG - ext conflict: '.xs' for <C LangInfo> conflicts with the same for <C++ LangInfo> (<C LangInfo> wins)
+[04/16/2016 11:19:29AM] DEBUG - ext conflict: '.django.html' for <Django Text Template LangInfo> conflicts with the same for <Django XHTML Template LangInfo> (<Django Text Template LangInfo> wins)
+[04/16/2016 11:19:29AM] DEBUG - ext conflict: '.js' for <JavaScript LangInfo> conflicts with the same for <Node.js LangInfo> (<JavaScript LangInfo> wins)
+[04/16/2016 11:19:29AM] DEBUG - ext conflict: ext:.sql, replace variant <MySQL LangInfo> with <SQL LangInfo>
+[04/16/2016 11:19:29AM] DEBUG - ext conflict: '.html' for <HTML5 LangInfo> conflicts with the same for <HTML LangInfo> (<HTML5 LangInfo> wins)
+[04/16/2016 11:19:29AM] DEBUG - ext conflict: '.htm' for <HTML5 LangInfo> conflicts with the same for <HTML LangInfo> (<HTML5 LangInfo> wins)
+[04/16/2016 11:19:29AM] DEBUG - ext conflict: '.pb' for <PureBasic LangInfo> conflicts with the same for <PowerBasic LangInfo> (<PureBasic LangInfo> wins)
+[04/16/2016 11:19:29AM] INFO - function_names_from_scope_starting_with_expr:: expr: 'fal', scoperef: (<Element 'scope' at 0x7fc2bc0bb668>, []) for ('locals', 'namespace', 'globals', 'imports')
+[04/16/2016 11:19:29AM] INFO - function_names_from_scope_starting_with_expr:: adding locals: []
+[04/16/2016 11:19:29AM] INFO - function_names_from_scope_starting_with_expr:: adding globals: []
+[04/16/2016 11:19:29AM] DEBUG - lang from ext: `.php' -> `PHP'
+[04/16/2016 11:19:29AM] DEBUG - UTF-8 encoding: 'utf-8'
+[04/16/2016 11:19:29AM] INFO - scan_purelang: path: '/home/anish/project/andrey-listify-customization/wp-vagrant/wordpress/wp-config-sample.php' lang: PHP
+[04/16/2016 11:19:29AM] DEBUG - lang from ext: `.php' -> `PHP'
+[04/16/2016 11:19:29AM] DEBUG - UTF-8 encoding: 'utf-8'
+[04/16/2016 11:19:29AM] INFO - scan_purelang: path: '/home/anish/project/andrey-listify-customization/wp-vagrant/wordpress/wp-tests-config-sample.php' lang: PHP
+[04/16/2016 11:19:29AM] WARNING - File '/usr/share/php/tcpdf/fonts/cid0cs.php' has size greater than 1MB (1583184)
+[04/16/2016 11:19:29AM] WARNING - File '/usr/share/php/tcpdf/fonts/cid0jp.php' has size greater than 1MB (1583178)
+[04/16/2016 11:19:29AM] WARNING - File '/usr/share/php/tcpdf/fonts/cid0ct.php' has size greater than 1MB (1583187)
+[04/16/2016 11:19:29AM] WARNING - File '/usr/share/php/tcpdf/fonts/cid0kr.php' has size greater than 1MB (1583175)
+[04/16/2016 11:19:29AM] INFO - is blob 'wp-settings.php' from <PHP curdirlib>? no
+[04/16/2016 11:19:29AM] INFO - is blob 'wp-settings.php' from <PHP extradirslib>? no
+[04/16/2016 11:19:29AM] INFO - is blob 'wp-settings.php' from <PHP inilib>? no
+[04/16/2016 11:19:29AM] INFO - is blob 'wp-settings.php' from <PHP cataloglib: >? no
+[04/16/2016 11:19:29AM] INFO - is blob 'wp-settings.php' from <php-5.5 stdlib>? no
+[04/16/2016 11:19:29AM] INFO - constant_names_from_scope_starting_with_expr:: expr: 'fal', scoperef: (<Element 'scope' at 0x7fc2bc0bb668>, []) for ('globals', 'imports', 'builtins')
+[04/16/2016 11:19:29AM] INFO - constant_names_from_scope_starting_with_expr:: adding globals: []
+[04/16/2016 11:19:29AM] INFO - is blob 'wp-settings.php' from <PHP curdirlib>? no
+[04/16/2016 11:19:29AM] INFO - is blob 'wp-settings.php' from <PHP extradirslib>? no
+[04/16/2016 11:19:29AM] INFO - is blob 'wp-settings.php' from <PHP inilib>? no
+[04/16/2016 11:19:29AM] INFO - is blob 'wp-settings.php' from <PHP cataloglib: >? no
+[04/16/2016 11:19:29AM] INFO - is blob 'wp-settings.php' from <php-5.5 stdlib>? no
+[04/16/2016 11:19:29AM] INFO - class_names_from_scope_starting_with_expr:: expr: 'fal', scoperef: (<Element 'scope' at 0x7fc2bc0bb668>, []) for ('locals', 'namespace', 'globals', 'imports')
+[04/16/2016 11:19:29AM] INFO - class_names_from_scope_starting_with_expr:: adding locals: []
+[04/16/2016 11:19:29AM] INFO - class_names_from_scope_starting_with_expr:: adding globals: []
+[04/16/2016 11:19:29AM] INFO - is blob 'wp-settings.php' from <PHP curdirlib>? no
+[04/16/2016 11:19:29AM] INFO - is blob 'wp-settings.php' from <PHP extradirslib>? no
+[04/16/2016 11:19:29AM] INFO - is blob 'wp-settings.php' from <PHP inilib>? no
+[04/16/2016 11:19:29AM] INFO - is blob 'wp-settings.php' from <PHP cataloglib: >? no
+[04/16/2016 11:19:29AM] INFO - is blob 'wp-settings.php' from <php-5.5 stdlib>? no
+[04/16/2016 11:19:29AM] INFO - namespace_names_from_scope_starting_with_expr:: expr: 'fal', scoperef: (<Element 'scope' at 0x7fc2bc0bb668>, []) for ('namespace', 'globals')
+[04/16/2016 11:19:29AM] INFO - namespace_names_from_scope_starting_with_expr:: adding globals: []
+[04/16/2016 11:19:29AM] INFO -     cplns: [('keyword', 'false')]
+[04/16/2016 11:19:29AM] INFO - done eval: success
+[04/16/2016 11:19:29AM] INFO - Autocomplete called (PHP) [cplns]
+[04/16/2016 11:21:01AM] INFO - scan_purelang: path: '/home/anish/project/andrey-listify-customization/wp-vagrant/wordpress/src/wp-content/themes/listify-child/content-single-job_listing.php' lang: PHP
+[04/16/2016 11:21:01AM] INFO - eval 'ech' at content-single-job_listing.php#54  <Trigger 'php-complete-functions' at 1938>
+[04/16/2016 11:21:01AM] INFO - function_names_from_scope_starting_with_expr:: expr: 'ech', scoperef: (<Element 'scope' at 0x7fc29eb6e320>, []) for ('locals', 'namespace', 'globals', 'imports')
+[04/16/2016 11:21:01AM] INFO - function_names_from_scope_starting_with_expr:: adding locals: []
+[04/16/2016 11:21:01AM] INFO - function_names_from_scope_starting_with_expr:: adding globals: []
+[04/16/2016 11:21:02AM] INFO - constant_names_from_scope_starting_with_expr:: expr: 'ech', scoperef: (<Element 'scope' at 0x7fc29eb6e320>, []) for ('globals', 'imports', 'builtins')
+[04/16/2016 11:21:02AM] INFO - constant_names_from_scope_starting_with_expr:: adding globals: []
+[04/16/2016 11:21:02AM] INFO - class_names_from_scope_starting_with_expr:: expr: 'ech', scoperef: (<Element 'scope' at 0x7fc29eb6e320>, []) for ('locals', 'namespace', 'globals', 'imports')
+[04/16/2016 11:21:02AM] INFO - class_names_from_scope_starting_with_expr:: adding locals: []
+[04/16/2016 11:21:02AM] INFO - class_names_from_scope_starting_with_expr:: adding globals: []
+[04/16/2016 11:21:02AM] INFO - namespace_names_from_scope_starting_with_expr:: expr: 'ech', scoperef: (<Element 'scope' at 0x7fc29eb6e320>, []) for ('namespace', 'globals')
+[04/16/2016 11:21:02AM] INFO - namespace_names_from_scope_starting_with_expr:: adding globals: []
+[04/16/2016 11:21:02AM] INFO -     cplns: [('keyword', 'echo')]
+[04/16/2016 11:21:02AM] INFO - done eval: success
+[04/16/2016 11:21:02AM] INFO - Autocomplete called (PHP) [cplns]
+[04/16/2016 11:21:54AM] INFO - scan_purelang: path: '/home/anish/project/andrey-listify-customization/wp-vagrant/wordpress/src/wp-content/themes/listify-child/content-single-job_listing.php' lang: PHP
+[04/16/2016 11:21:54AM] INFO - eval 'ech' at content-single-job_listing.php#53  <Trigger 'php-complete-functions' at 1837>
+[04/16/2016 11:21:54AM] INFO - function_names_from_scope_starting_with_expr:: expr: 'ech', scoperef: (<Element 'scope' at 0x7fc29eb6e320>, []) for ('locals', 'namespace', 'globals', 'imports')
+[04/16/2016 11:21:54AM] INFO - function_names_from_scope_starting_with_expr:: adding locals: []
+[04/16/2016 11:21:54AM] INFO - function_names_from_scope_starting_with_expr:: adding globals: []
+[04/16/2016 11:21:54AM] INFO - constant_names_from_scope_starting_with_expr:: expr: 'ech', scoperef: (<Element 'scope' at 0x7fc29eb6e320>, []) for ('globals', 'imports', 'builtins')
+[04/16/2016 11:21:54AM] INFO - constant_names_from_scope_starting_with_expr:: adding globals: []
+[04/16/2016 11:21:54AM] INFO - class_names_from_scope_starting_with_expr:: expr: 'ech', scoperef: (<Element 'scope' at 0x7fc29eb6e320>, []) for ('locals', 'namespace', 'globals', 'imports')
+[04/16/2016 11:21:54AM] INFO - class_names_from_scope_starting_with_expr:: adding locals: []
+[04/16/2016 11:21:54AM] INFO - class_names_from_scope_starting_with_expr:: adding globals: []
+[04/16/2016 11:21:54AM] INFO - namespace_names_from_scope_starting_with_expr:: expr: 'ech', scoperef: (<Element 'scope' at 0x7fc29eb6e320>, []) for ('namespace', 'globals')
+[04/16/2016 11:21:54AM] INFO - namespace_names_from_scope_starting_with_expr:: adding globals: []
+[04/16/2016 11:21:54AM] INFO -     cplns: [('keyword', 'echo')]
+[04/16/2016 11:21:54AM] INFO - done eval: success
+[04/16/2016 11:21:54AM] INFO - Autocomplete called (PHP) [cplns]
+[04/16/2016 11:22:09AM] INFO - scan_purelang: path: '/home/anish/project/andrey-listify-customization/wp-vagrant/wordpress/src/wp-content/themes/listify-child/content-single-job_listing.php' lang: PHP
+[04/16/2016 11:22:09AM] INFO - eval 'ech' at content-single-job_listing.php#55  <Trigger 'php-complete-functions' at 2004>
+[04/16/2016 11:22:09AM] INFO - function_names_from_scope_starting_with_expr:: expr: 'ech', scoperef: (<Element 'scope' at 0x7fc29eb6e938>, []) for ('locals', 'namespace', 'globals', 'imports')
+[04/16/2016 11:22:09AM] INFO - function_names_from_scope_starting_with_expr:: adding locals: []
+[04/16/2016 11:22:09AM] INFO - function_names_from_scope_starting_with_expr:: adding globals: []
+[04/16/2016 11:22:09AM] INFO - constant_names_from_scope_starting_with_expr:: expr: 'ech', scoperef: (<Element 'scope' at 0x7fc29eb6e938>, []) for ('globals', 'imports', 'builtins')
+[04/16/2016 11:22:09AM] INFO - constant_names_from_scope_starting_with_expr:: adding globals: []
+[04/16/2016 11:22:09AM] INFO - class_names_from_scope_starting_with_expr:: expr: 'ech', scoperef: (<Element 'scope' at 0x7fc29eb6e938>, []) for ('locals', 'namespace', 'globals', 'imports')
+[04/16/2016 11:22:09AM] INFO - class_names_from_scope_starting_with_expr:: adding locals: []
+[04/16/2016 11:22:09AM] INFO - class_names_from_scope_starting_with_expr:: adding globals: []
+[04/16/2016 11:22:09AM] INFO - namespace_names_from_scope_starting_with_expr:: expr: 'ech', scoperef: (<Element 'scope' at 0x7fc29eb6e938>, []) for ('namespace', 'globals')
+[04/16/2016 11:22:09AM] INFO - namespace_names_from_scope_starting_with_expr:: adding globals: []
+[04/16/2016 11:22:09AM] INFO -     cplns: [('keyword', 'echo')]
+[04/16/2016 11:22:09AM] INFO - done eval: success
+[04/16/2016 11:22:09AM] INFO - Autocomplete called (PHP) [cplns]
+[04/16/2016 11:29:52AM] INFO - scan_purelang: path: '/home/anish/project/andrey-listify-customization/wp-vagrant/wordpress/src/wp-content/themes/listify-child/inc/listing-front-end.php' lang: PHP
+[04/16/2016 11:29:52AM] INFO - eval 'die' at listing-front-end.php#60  <Trigger 'php-complete-functions' at 1522>
+[04/16/2016 11:29:52AM] INFO - function_names_from_scope_starting_with_expr:: expr: 'die', scoperef: (<Element 'scope' at 0x7fc29eb6eb90>, ['wdm_change_grid_layout']) for ('locals', 'namespace', 'globals', 'imports')
+[04/16/2016 11:29:52AM] INFO - function_names_from_scope_starting_with_expr:: adding locals: []
+[04/16/2016 11:29:52AM] INFO - function_names_from_scope_starting_with_expr:: adding globals: []
+[04/16/2016 11:29:52AM] INFO - is blob '/inc/widgets/class-widget-home-listings.php' from <PHP curdirlib>? no
+[04/16/2016 11:29:52AM] INFO - is blob '/inc/widgets/class-widget-home-listings.php' from <PHP extradirslib>? yes
+[04/16/2016 11:29:52AM] INFO - function_names_from_scope_starting_with_expr:: adding imports: []
+[04/16/2016 11:29:52AM] INFO - constant_names_from_scope_starting_with_expr:: expr: 'die', scoperef: (<Element 'scope' at 0x7fc29eb6eb90>, ['wdm_change_grid_layout']) for ('globals', 'imports', 'builtins')
+[04/16/2016 11:29:52AM] INFO - constant_names_from_scope_starting_with_expr:: adding globals: []
+[04/16/2016 11:29:52AM] INFO - is blob '/inc/widgets/class-widget-home-listings.php' from <PHP curdirlib>? no
+[04/16/2016 11:29:52AM] INFO - is blob '/inc/widgets/class-widget-home-listings.php' from <PHP extradirslib>? yes
+[04/16/2016 11:29:52AM] INFO - constant_names_from_scope_starting_with_expr:: adding imports: []
+[04/16/2016 11:29:52AM] INFO - class_names_from_scope_starting_with_expr:: expr: 'die', scoperef: (<Element 'scope' at 0x7fc29eb6eb90>, ['wdm_change_grid_layout']) for ('locals', 'namespace', 'globals', 'imports')
+[04/16/2016 11:29:52AM] INFO - class_names_from_scope_starting_with_expr:: adding locals: []
+[04/16/2016 11:29:52AM] INFO - class_names_from_scope_starting_with_expr:: adding globals: []
+[04/16/2016 11:29:52AM] INFO - is blob '/inc/widgets/class-widget-home-listings.php' from <PHP curdirlib>? no
+[04/16/2016 11:29:52AM] INFO - is blob '/inc/widgets/class-widget-home-listings.php' from <PHP extradirslib>? yes
+[04/16/2016 11:29:52AM] INFO - class_names_from_scope_starting_with_expr:: adding imports: []
+[04/16/2016 11:29:52AM] INFO - namespace_names_from_scope_starting_with_expr:: expr: 'die', scoperef: (<Element 'scope' at 0x7fc29eb6eb90>, ['wdm_change_grid_layout']) for ('namespace', 'globals')
+[04/16/2016 11:29:52AM] INFO - namespace_names_from_scope_starting_with_expr:: adding globals: []
+[04/16/2016 11:29:52AM] INFO -     cplns: [('keyword', 'die')]
+[04/16/2016 11:29:52AM] INFO - done eval: success
+[04/16/2016 11:29:52AM] INFO - Autocomplete called (PHP) [cplns]
+[04/16/2016 11:30:04AM] INFO - scan_purelang: path: '/home/anish/project/andrey-listify-customization/wp-vagrant/wordpress/src/wp-content/themes/listify-child/inc/listing-front-end.php' lang: PHP
+[04/16/2016 11:30:04AM] INFO - eval 'var' at listing-front-end.php#60  <Trigger 'php-complete-functions' at 1522>
+[04/16/2016 11:30:04AM] INFO - function_names_from_scope_starting_with_expr:: expr: 'var', scoperef: (<Element 'scope' at 0x7fc2bc027938>, ['wdm_change_grid_layout']) for ('locals', 'namespace', 'globals', 'imports')
+[04/16/2016 11:30:04AM] INFO - function_names_from_scope_starting_with_expr:: adding locals: []
+[04/16/2016 11:30:04AM] INFO - function_names_from_scope_starting_with_expr:: adding globals: []
+[04/16/2016 11:30:04AM] INFO - is blob '/inc/widgets/class-widget-home-listings.php' from <PHP curdirlib>? no
+[04/16/2016 11:30:04AM] INFO - is blob '/inc/widgets/class-widget-home-listings.php' from <PHP extradirslib>? yes
+[04/16/2016 11:30:04AM] INFO - function_names_from_scope_starting_with_expr:: adding imports: []
+[04/16/2016 11:30:04AM] INFO - constant_names_from_scope_starting_with_expr:: expr: 'var', scoperef: (<Element 'scope' at 0x7fc2bc027938>, ['wdm_change_grid_layout']) for ('globals', 'imports', 'builtins')
+[04/16/2016 11:30:04AM] INFO - constant_names_from_scope_starting_with_expr:: adding globals: []
+[04/16/2016 11:30:04AM] INFO - is blob '/inc/widgets/class-widget-home-listings.php' from <PHP curdirlib>? no
+[04/16/2016 11:30:04AM] INFO - is blob '/inc/widgets/class-widget-home-listings.php' from <PHP extradirslib>? yes
+[04/16/2016 11:30:04AM] INFO - constant_names_from_scope_starting_with_expr:: adding imports: []
+[04/16/2016 11:30:04AM] INFO - class_names_from_scope_starting_with_expr:: expr: 'var', scoperef: (<Element 'scope' at 0x7fc2bc027938>, ['wdm_change_grid_layout']) for ('locals', 'namespace', 'globals', 'imports')
+[04/16/2016 11:30:04AM] INFO - class_names_from_scope_starting_with_expr:: adding locals: []
+[04/16/2016 11:30:04AM] INFO - class_names_from_scope_starting_with_expr:: adding globals: []
+[04/16/2016 11:30:04AM] INFO - is blob '/inc/widgets/class-widget-home-listings.php' from <PHP curdirlib>? no
+[04/16/2016 11:30:04AM] INFO - is blob '/inc/widgets/class-widget-home-listings.php' from <PHP extradirslib>? yes
+[04/16/2016 11:30:04AM] INFO - class_names_from_scope_starting_with_expr:: adding imports: []
+[04/16/2016 11:30:04AM] INFO - namespace_names_from_scope_starting_with_expr:: expr: 'var', scoperef: (<Element 'scope' at 0x7fc2bc027938>, ['wdm_change_grid_layout']) for ('namespace', 'globals')
+[04/16/2016 11:30:04AM] INFO - namespace_names_from_scope_starting_with_expr:: adding globals: []
+[04/16/2016 11:30:04AM] INFO -     cplns: [('keyword', 'var'), ('function', 'variant_abs'), ('function', 'variant_add'), ('function', 'variant_and'), ('function', 'variant_cast'), ('function', 'variant_cat'), ('function', 'variant_cmp'), ('function', 'variant_date_from_timestamp'), ('function', 'variant_date_to_timestamp'), ('function', 'variant_div'), ('function', 'variant_eqv'), ('function', 'variant_fix'), ('function', 'variant_get_type'), ('function', 'variant_idiv'), ('function', 'variant_imp'), ('function', 'variant_int'), ('function', 'variant_mod'), ('function', 'variant_mul'), ('function', 'variant_neg'), ('function', 'variant_not'), ('function', 'variant_or'), ('function', 'variant_pow'), ('function', 'variant_round'), ('function', 'variant_set'), ('function', 'variant_set_type'), ('function', 'variant_sub'), ('function', 'variant_xor'), ('function', 'var_dump'), ('function', 'var_export')]
+[04/16/2016 11:30:04AM] INFO - done eval: success
+[04/16/2016 11:30:04AM] INFO - Autocomplete called (PHP) [cplns]
+[04/16/2016 11:30:06AM] INFO - eval 'ech' at listing-front-end.php#60  <Trigger 'php-complete-functions' at 1522>
+[04/16/2016 11:30:06AM] INFO - function_names_from_scope_starting_with_expr:: expr: 'ech', scoperef: (<Element 'scope' at 0x7fc29eb6e8c0>, ['wdm_change_grid_layout']) for ('locals', 'namespace', 'globals', 'imports')
+[04/16/2016 11:30:06AM] INFO - function_names_from_scope_starting_with_expr:: adding locals: []
+[04/16/2016 11:30:06AM] INFO - function_names_from_scope_starting_with_expr:: adding globals: []
+[04/16/2016 11:30:06AM] INFO - is blob '/inc/widgets/class-widget-home-listings.php' from <PHP curdirlib>? no
+[04/16/2016 11:30:06AM] INFO - is blob '/inc/widgets/class-widget-home-listings.php' from <PHP extradirslib>? yes
+[04/16/2016 11:30:06AM] INFO - function_names_from_scope_starting_with_expr:: adding imports: []
+[04/16/2016 11:30:06AM] INFO - constant_names_from_scope_starting_with_expr:: expr: 'ech', scoperef: (<Element 'scope' at 0x7fc29eb6e8c0>, ['wdm_change_grid_layout']) for ('globals', 'imports', 'builtins')
+[04/16/2016 11:30:06AM] INFO - constant_names_from_scope_starting_with_expr:: adding globals: []
+[04/16/2016 11:30:06AM] INFO - is blob '/inc/widgets/class-widget-home-listings.php' from <PHP curdirlib>? no
+[04/16/2016 11:30:06AM] INFO - is blob '/inc/widgets/class-widget-home-listings.php' from <PHP extradirslib>? yes
+[04/16/2016 11:30:06AM] INFO - constant_names_from_scope_starting_with_expr:: adding imports: []
+[04/16/2016 11:30:06AM] INFO - class_names_from_scope_starting_with_expr:: expr: 'ech', scoperef: (<Element 'scope' at 0x7fc29eb6e8c0>, ['wdm_change_grid_layout']) for ('locals', 'namespace', 'globals', 'imports')
+[04/16/2016 11:30:06AM] INFO - class_names_from_scope_starting_with_expr:: adding locals: []
+[04/16/2016 11:30:06AM] INFO - class_names_from_scope_starting_with_expr:: adding globals: []
+[04/16/2016 11:30:06AM] INFO - is blob '/inc/widgets/class-widget-home-listings.php' from <PHP curdirlib>? no
+[04/16/2016 11:30:06AM] INFO - is blob '/inc/widgets/class-widget-home-listings.php' from <PHP extradirslib>? yes
+[04/16/2016 11:30:06AM] INFO - class_names_from_scope_starting_with_expr:: adding imports: []
+[04/16/2016 11:30:06AM] INFO - namespace_names_from_scope_starting_with_expr:: expr: 'ech', scoperef: (<Element 'scope' at 0x7fc29eb6e8c0>, ['wdm_change_grid_layout']) for ('namespace', 'globals')
+[04/16/2016 11:30:06AM] INFO - namespace_names_from_scope_starting_with_expr:: adding globals: []
+[04/16/2016 11:30:06AM] INFO -     cplns: [('keyword', 'echo')]
+[04/16/2016 11:30:06AM] INFO - done eval: success
+[04/16/2016 11:30:06AM] INFO - Autocomplete called (PHP) [cplns]
+[04/16/2016 11:30:49AM] INFO - scan_purelang: path: '/home/anish/project/andrey-listify-customization/wp-vagrant/wordpress/src/wp-content/themes/listify-child/inc/listing-front-end.php' lang: PHP
+[04/16/2016 11:30:49AM] INFO - eval 'var' at listing-front-end.php#60  <Trigger 'php-complete-functions' at 1522>
+[04/16/2016 11:30:49AM] INFO - function_names_from_scope_starting_with_expr:: expr: 'var', scoperef: (<Element 'scope' at 0x7fc2bc0275f0>, ['wdm_change_grid_layout']) for ('locals', 'namespace', 'globals', 'imports')
+[04/16/2016 11:30:49AM] INFO - function_names_from_scope_starting_with_expr:: adding locals: []
+[04/16/2016 11:30:49AM] INFO - function_names_from_scope_starting_with_expr:: adding globals: []
+[04/16/2016 11:30:49AM] INFO - is blob '/inc/widgets/class-widget-home-listings.php' from <PHP curdirlib>? no
+[04/16/2016 11:30:49AM] INFO - is blob '/inc/widgets/class-widget-home-listings.php' from <PHP extradirslib>? yes
+[04/16/2016 11:30:49AM] INFO - function_names_from_scope_starting_with_expr:: adding imports: []
+[04/16/2016 11:30:49AM] INFO - constant_names_from_scope_starting_with_expr:: expr: 'var', scoperef: (<Element 'scope' at 0x7fc2bc0275f0>, ['wdm_change_grid_layout']) for ('globals', 'imports', 'builtins')
+[04/16/2016 11:30:49AM] INFO - constant_names_from_scope_starting_with_expr:: adding globals: []
+[04/16/2016 11:30:49AM] INFO - is blob '/inc/widgets/class-widget-home-listings.php' from <PHP curdirlib>? no
+[04/16/2016 11:30:49AM] INFO - is blob '/inc/widgets/class-widget-home-listings.php' from <PHP extradirslib>? yes
+[04/16/2016 11:30:49AM] INFO - constant_names_from_scope_starting_with_expr:: adding imports: []
+[04/16/2016 11:30:49AM] INFO - class_names_from_scope_starting_with_expr:: expr: 'var', scoperef: (<Element 'scope' at 0x7fc2bc0275f0>, ['wdm_change_grid_layout']) for ('locals', 'namespace', 'globals', 'imports')
+[04/16/2016 11:30:49AM] INFO - class_names_from_scope_starting_with_expr:: adding locals: []
+[04/16/2016 11:30:49AM] INFO - class_names_from_scope_starting_with_expr:: adding globals: []
+[04/16/2016 11:30:49AM] INFO - is blob '/inc/widgets/class-widget-home-listings.php' from <PHP curdirlib>? no
+[04/16/2016 11:30:49AM] INFO - is blob '/inc/widgets/class-widget-home-listings.php' from <PHP extradirslib>? yes
+[04/16/2016 11:30:49AM] INFO - class_names_from_scope_starting_with_expr:: adding imports: []
+[04/16/2016 11:30:49AM] INFO - namespace_names_from_scope_starting_with_expr:: expr: 'var', scoperef: (<Element 'scope' at 0x7fc2bc0275f0>, ['wdm_change_grid_layout']) for ('namespace', 'globals')
+[04/16/2016 11:30:49AM] INFO - namespace_names_from_scope_starting_with_expr:: adding globals: []
+[04/16/2016 11:30:49AM] INFO -     cplns: [('keyword', 'var'), ('function', 'variant_abs'), ('function', 'variant_add'), ('function', 'variant_and'), ('function', 'variant_cast'), ('function', 'variant_cat'), ('function', 'variant_cmp'), ('function', 'variant_date_from_timestamp'), ('function', 'variant_date_to_timestamp'), ('function', 'variant_div'), ('function', 'variant_eqv'), ('function', 'variant_fix'), ('function', 'variant_get_type'), ('function', 'variant_idiv'), ('function', 'variant_imp'), ('function', 'variant_int'), ('function', 'variant_mod'), ('function', 'variant_mul'), ('function', 'variant_neg'), ('function', 'variant_not'), ('function', 'variant_or'), ('function', 'variant_pow'), ('function', 'variant_round'), ('function', 'variant_set'), ('function', 'variant_set_type'), ('function', 'variant_sub'), ('function', 'variant_xor'), ('function', 'var_dump'), ('function', 'var_export')]
+[04/16/2016 11:30:49AM] INFO - done eval: success
+[04/16/2016 11:30:49AM] INFO - Autocomplete called (PHP) [cplns]
+[04/16/2016 11:30:52AM] INFO - eval 'err' at listing-front-end.php#60  <Trigger 'php-complete-functions' at 1522>
+[04/16/2016 11:30:52AM] INFO - function_names_from_scope_starting_with_expr:: expr: 'err', scoperef: (<Element 'scope' at 0x7fc29eb6e320>, ['wdm_change_grid_layout']) for ('locals', 'namespace', 'globals', 'imports')
+[04/16/2016 11:30:52AM] INFO - function_names_from_scope_starting_with_expr:: adding locals: []
+[04/16/2016 11:30:52AM] INFO - function_names_from_scope_starting_with_expr:: adding globals: []
+[04/16/2016 11:30:52AM] INFO - is blob '/inc/widgets/class-widget-home-listings.php' from <PHP curdirlib>? no
+[04/16/2016 11:30:52AM] INFO - is blob '/inc/widgets/class-widget-home-listings.php' from <PHP extradirslib>? yes
+[04/16/2016 11:30:52AM] INFO - function_names_from_scope_starting_with_expr:: adding imports: []
+[04/16/2016 11:30:52AM] INFO - constant_names_from_scope_starting_with_expr:: expr: 'err', scoperef: (<Element 'scope' at 0x7fc29eb6e320>, ['wdm_change_grid_layout']) for ('globals', 'imports', 'builtins')
+[04/16/2016 11:30:52AM] INFO - constant_names_from_scope_starting_with_expr:: adding globals: []
+[04/16/2016 11:30:52AM] INFO - is blob '/inc/widgets/class-widget-home-listings.php' from <PHP curdirlib>? no
+[04/16/2016 11:30:52AM] INFO - is blob '/inc/widgets/class-widget-home-listings.php' from <PHP extradirslib>? yes
+[04/16/2016 11:30:52AM] INFO - constant_names_from_scope_starting_with_expr:: adding imports: []
+[04/16/2016 11:30:52AM] INFO - class_names_from_scope_starting_with_expr:: expr: 'err', scoperef: (<Element 'scope' at 0x7fc29eb6e320>, ['wdm_change_grid_layout']) for ('locals', 'namespace', 'globals', 'imports')
+[04/16/2016 11:30:52AM] INFO - class_names_from_scope_starting_with_expr:: adding locals: []
+[04/16/2016 11:30:52AM] INFO - class_names_from_scope_starting_with_expr:: adding globals: []
+[04/16/2016 11:30:52AM] INFO - is blob '/inc/widgets/class-widget-home-listings.php' from <PHP curdirlib>? no
+[04/16/2016 11:30:52AM] INFO - is blob '/inc/widgets/class-widget-home-listings.php' from <PHP extradirslib>? yes
+[04/16/2016 11:30:52AM] INFO - class_names_from_scope_starting_with_expr:: adding imports: []
+[04/16/2016 11:30:52AM] INFO - namespace_names_from_scope_starting_with_expr:: expr: 'err', scoperef: (<Element 'scope' at 0x7fc29eb6e320>, ['wdm_change_grid_layout']) for ('namespace', 'globals')
+[04/16/2016 11:30:52AM] INFO - namespace_names_from_scope_starting_with_expr:: adding globals: []
+[04/16/2016 11:30:52AM] INFO -     cplns: [('function', 'error_get_last'), ('function', 'error_log'), ('function', 'error_reporting')]
+[04/16/2016 11:30:52AM] INFO - done eval: success
+[04/16/2016 11:30:52AM] INFO - Autocomplete called (PHP) [cplns]
+[04/16/2016 11:30:55AM] INFO - eval 'err' at listing-front-end.php#60  <Trigger 'php-complete-functions' at 1522>
+[04/16/2016 11:30:55AM] INFO - function_names_from_scope_starting_with_expr:: expr: 'err', scoperef: (<Element 'scope' at 0x7fc2bd6e68c0>, ['wdm_change_grid_layout']) for ('locals', 'namespace', 'globals', 'imports')
+[04/16/2016 11:30:55AM] INFO - function_names_from_scope_starting_with_expr:: adding locals: []
+[04/16/2016 11:30:55AM] INFO - function_names_from_scope_starting_with_expr:: adding globals: []
+[04/16/2016 11:30:55AM] INFO - is blob '/inc/widgets/class-widget-home-listings.php' from <PHP curdirlib>? no
+[04/16/2016 11:30:55AM] INFO - is blob '/inc/widgets/class-widget-home-listings.php' from <PHP extradirslib>? yes
+[04/16/2016 11:30:55AM] INFO - function_names_from_scope_starting_with_expr:: adding imports: []
+[04/16/2016 11:30:55AM] INFO - constant_names_from_scope_starting_with_expr:: expr: 'err', scoperef: (<Element 'scope' at 0x7fc2bd6e68c0>, ['wdm_change_grid_layout']) for ('globals', 'imports', 'builtins')
+[04/16/2016 11:30:55AM] INFO - constant_names_from_scope_starting_with_expr:: adding globals: []
+[04/16/2016 11:30:55AM] INFO - is blob '/inc/widgets/class-widget-home-listings.php' from <PHP curdirlib>? no
+[04/16/2016 11:30:55AM] INFO - is blob '/inc/widgets/class-widget-home-listings.php' from <PHP extradirslib>? yes
+[04/16/2016 11:30:55AM] INFO - constant_names_from_scope_starting_with_expr:: adding imports: []
+[04/16/2016 11:30:55AM] INFO - class_names_from_scope_starting_with_expr:: expr: 'err', scoperef: (<Element 'scope' at 0x7fc2bd6e68c0>, ['wdm_change_grid_layout']) for ('locals', 'namespace', 'globals', 'imports')
+[04/16/2016 11:30:55AM] INFO - class_names_from_scope_starting_with_expr:: adding locals: []
+[04/16/2016 11:30:55AM] INFO - class_names_from_scope_starting_with_expr:: adding globals: []
+[04/16/2016 11:30:55AM] INFO - is blob '/inc/widgets/class-widget-home-listings.php' from <PHP curdirlib>? no
+[04/16/2016 11:30:55AM] INFO - is blob '/inc/widgets/class-widget-home-listings.php' from <PHP extradirslib>? yes
+[04/16/2016 11:30:55AM] INFO - class_names_from_scope_starting_with_expr:: adding imports: []
+[04/16/2016 11:30:55AM] INFO - namespace_names_from_scope_starting_with_expr:: expr: 'err', scoperef: (<Element 'scope' at 0x7fc2bd6e68c0>, ['wdm_change_grid_layout']) for ('namespace', 'globals')
+[04/16/2016 11:30:55AM] INFO - namespace_names_from_scope_starting_with_expr:: adding globals: []
+[04/16/2016 11:30:55AM] INFO -     cplns: [('function', 'error_get_last'), ('function', 'error_log'), ('function', 'error_reporting')]
+[04/16/2016 11:30:55AM] INFO - done eval: success
+[04/16/2016 11:30:55AM] INFO - Autocomplete called (PHP) [cplns]
+[04/16/2016 11:30:59AM] INFO - scan_purelang: path: '/home/anish/project/andrey-listify-customization/wp-vagrant/wordpress/src/wp-content/themes/listify-child/inc/listing-front-end.php' lang: PHP
+[04/16/2016 11:30:59AM] INFO - eval 'err' at listing-front-end.php#60  <Trigger 'php-complete-functions' at 1522>
+[04/16/2016 11:30:59AM] INFO - function_names_from_scope_starting_with_expr:: expr: 'err', scoperef: (<Element 'scope' at 0x7fc2bc07acf8>, ['wdm_change_grid_layout']) for ('locals', 'namespace', 'globals', 'imports')
+[04/16/2016 11:30:59AM] INFO - function_names_from_scope_starting_with_expr:: adding locals: []
+[04/16/2016 11:30:59AM] INFO - function_names_from_scope_starting_with_expr:: adding globals: []
+[04/16/2016 11:30:59AM] INFO - is blob '/inc/widgets/class-widget-home-listings.php' from <PHP curdirlib>? no
+[04/16/2016 11:30:59AM] INFO - is blob '/inc/widgets/class-widget-home-listings.php' from <PHP extradirslib>? yes
+[04/16/2016 11:30:59AM] INFO - function_names_from_scope_starting_with_expr:: adding imports: []
+[04/16/2016 11:30:59AM] INFO - constant_names_from_scope_starting_with_expr:: expr: 'err', scoperef: (<Element 'scope' at 0x7fc2bc07acf8>, ['wdm_change_grid_layout']) for ('globals', 'imports', 'builtins')
+[04/16/2016 11:30:59AM] INFO - constant_names_from_scope_starting_with_expr:: adding globals: []
+[04/16/2016 11:30:59AM] INFO - is blob '/inc/widgets/class-widget-home-listings.php' from <PHP curdirlib>? no
+[04/16/2016 11:30:59AM] INFO - is blob '/inc/widgets/class-widget-home-listings.php' from <PHP extradirslib>? yes
+[04/16/2016 11:30:59AM] INFO - constant_names_from_scope_starting_with_expr:: adding imports: []
+[04/16/2016 11:30:59AM] INFO - class_names_from_scope_starting_with_expr:: expr: 'err', scoperef: (<Element 'scope' at 0x7fc2bc07acf8>, ['wdm_change_grid_layout']) for ('locals', 'namespace', 'globals', 'imports')
+[04/16/2016 11:30:59AM] INFO - class_names_from_scope_starting_with_expr:: adding locals: []
+[04/16/2016 11:30:59AM] INFO - class_names_from_scope_starting_with_expr:: adding globals: []
+[04/16/2016 11:30:59AM] INFO - is blob '/inc/widgets/class-widget-home-listings.php' from <PHP curdirlib>? no
+[04/16/2016 11:30:59AM] INFO - is blob '/inc/widgets/class-widget-home-listings.php' from <PHP extradirslib>? yes
+[04/16/2016 11:30:59AM] INFO - class_names_from_scope_starting_with_expr:: adding imports: []
+[04/16/2016 11:30:59AM] INFO - namespace_names_from_scope_starting_with_expr:: expr: 'err', scoperef: (<Element 'scope' at 0x7fc2bc07acf8>, ['wdm_change_grid_layout']) for ('namespace', 'globals')
+[04/16/2016 11:30:59AM] INFO - namespace_names_from_scope_starting_with_expr:: adding globals: []
+[04/16/2016 11:30:59AM] INFO -     cplns: [('function', 'error_get_last'), ('function', 'error_log'), ('function', 'error_reporting')]
+[04/16/2016 11:30:59AM] INFO - done eval: success
+[04/16/2016 11:30:59AM] INFO - Autocomplete called (PHP) [cplns]
+[04/16/2016 11:31:01AM] INFO - eval 'err' at listing-front-end.php#60  <Trigger 'php-complete-functions' at 1522>
+[04/16/2016 11:31:01AM] INFO - function_names_from_scope_starting_with_expr:: expr: 'err', scoperef: (<Element 'scope' at 0x7fc2bd6e68c0>, ['wdm_change_grid_layout']) for ('locals', 'namespace', 'globals', 'imports')
+[04/16/2016 11:31:01AM] INFO - function_names_from_scope_starting_with_expr:: adding locals: []
+[04/16/2016 11:31:01AM] INFO - function_names_from_scope_starting_with_expr:: adding globals: []
+[04/16/2016 11:31:01AM] INFO - is blob '/inc/widgets/class-widget-home-listings.php' from <PHP curdirlib>? no
+[04/16/2016 11:31:01AM] INFO - is blob '/inc/widgets/class-widget-home-listings.php' from <PHP extradirslib>? yes
+[04/16/2016 11:31:01AM] INFO - function_names_from_scope_starting_with_expr:: adding imports: []
+[04/16/2016 11:31:01AM] INFO - constant_names_from_scope_starting_with_expr:: expr: 'err', scoperef: (<Element 'scope' at 0x7fc2bd6e68c0>, ['wdm_change_grid_layout']) for ('globals', 'imports', 'builtins')
+[04/16/2016 11:31:01AM] INFO - constant_names_from_scope_starting_with_expr:: adding globals: []
+[04/16/2016 11:31:01AM] INFO - is blob '/inc/widgets/class-widget-home-listings.php' from <PHP curdirlib>? no
+[04/16/2016 11:31:01AM] INFO - is blob '/inc/widgets/class-widget-home-listings.php' from <PHP extradirslib>? yes
+[04/16/2016 11:31:01AM] INFO - constant_names_from_scope_starting_with_expr:: adding imports: []
+[04/16/2016 11:31:01AM] INFO - class_names_from_scope_starting_with_expr:: expr: 'err', scoperef: (<Element 'scope' at 0x7fc2bd6e68c0>, ['wdm_change_grid_layout']) for ('locals', 'namespace', 'globals', 'imports')
+[04/16/2016 11:31:01AM] INFO - class_names_from_scope_starting_with_expr:: adding locals: []
+[04/16/2016 11:31:01AM] INFO - class_names_from_scope_starting_with_expr:: adding globals: []
+[04/16/2016 11:31:01AM] INFO - is blob '/inc/widgets/class-widget-home-listings.php' from <PHP curdirlib>? no
+[04/16/2016 11:31:01AM] INFO - is blob '/inc/widgets/class-widget-home-listings.php' from <PHP extradirslib>? yes
+[04/16/2016 11:31:01AM] INFO - class_names_from_scope_starting_with_expr:: adding imports: []
+[04/16/2016 11:31:01AM] INFO - namespace_names_from_scope_starting_with_expr:: expr: 'err', scoperef: (<Element 'scope' at 0x7fc2bd6e68c0>, ['wdm_change_grid_layout']) for ('namespace', 'globals')
+[04/16/2016 11:31:01AM] INFO - namespace_names_from_scope_starting_with_expr:: adding globals: []
+[04/16/2016 11:31:01AM] INFO -     cplns: [('function', 'error_get_last'), ('function', 'error_log'), ('function', 'error_reporting')]
+[04/16/2016 11:31:01AM] INFO - done eval: success
+[04/16/2016 11:31:01AM] INFO - Autocomplete called (PHP) [cplns]
+[04/16/2016 11:31:44AM] INFO - scan_purelang: path: '/home/anish/project/andrey-listify-customization/wp-vagrant/wordpress/src/wp-content/themes/listify-child/inc/listing-front-end.php' lang: PHP
+[04/16/2016 11:31:49AM] INFO - eval 'pri' at listing-front-end.php#60  <Trigger 'php-complete-functions' at 1522>
+[04/16/2016 11:31:49AM] INFO - function_names_from_scope_starting_with_expr:: expr: 'pri', scoperef: (<Element 'scope' at 0x7fc29eb89320>, ['wdm_change_grid_layout']) for ('locals', 'namespace', 'globals', 'imports')
+[04/16/2016 11:31:49AM] INFO - function_names_from_scope_starting_with_expr:: adding locals: []
+[04/16/2016 11:31:49AM] INFO - function_names_from_scope_starting_with_expr:: adding globals: []
+[04/16/2016 11:31:49AM] INFO - is blob '/inc/widgets/class-widget-home-listings.php' from <PHP curdirlib>? no
+[04/16/2016 11:31:49AM] INFO - is blob '/inc/widgets/class-widget-home-listings.php' from <PHP extradirslib>? yes
+[04/16/2016 11:31:49AM] INFO - function_names_from_scope_starting_with_expr:: adding imports: []
+[04/16/2016 11:31:49AM] INFO - constant_names_from_scope_starting_with_expr:: expr: 'pri', scoperef: (<Element 'scope' at 0x7fc29eb89320>, ['wdm_change_grid_layout']) for ('globals', 'imports', 'builtins')
+[04/16/2016 11:31:49AM] INFO - constant_names_from_scope_starting_with_expr:: adding globals: []
+[04/16/2016 11:31:49AM] INFO - is blob '/inc/widgets/class-widget-home-listings.php' from <PHP curdirlib>? no
+[04/16/2016 11:31:49AM] INFO - is blob '/inc/widgets/class-widget-home-listings.php' from <PHP extradirslib>? yes
+[04/16/2016 11:31:49AM] INFO - constant_names_from_scope_starting_with_expr:: adding imports: []
+[04/16/2016 11:31:49AM] INFO - class_names_from_scope_starting_with_expr:: expr: 'pri', scoperef: (<Element 'scope' at 0x7fc29eb89320>, ['wdm_change_grid_layout']) for ('locals', 'namespace', 'globals', 'imports')
+[04/16/2016 11:31:49AM] INFO - class_names_from_scope_starting_with_expr:: adding locals: []
+[04/16/2016 11:31:49AM] INFO - class_names_from_scope_starting_with_expr:: adding globals: []
+[04/16/2016 11:31:49AM] INFO - is blob '/inc/widgets/class-widget-home-listings.php' from <PHP curdirlib>? no
+[04/16/2016 11:31:49AM] INFO - is blob '/inc/widgets/class-widget-home-listings.php' from <PHP extradirslib>? yes
+[04/16/2016 11:31:49AM] INFO - class_names_from_scope_starting_with_expr:: adding imports: []
+[04/16/2016 11:31:49AM] INFO - namespace_names_from_scope_starting_with_expr:: expr: 'pri', scoperef: (<Element 'scope' at 0x7fc29eb89320>, ['wdm_change_grid_layout']) for ('namespace', 'globals')
+[04/16/2016 11:31:49AM] INFO - namespace_names_from_scope_starting_with_expr:: adding globals: []
+[04/16/2016 11:31:49AM] INFO -     cplns: [('keyword', 'print'), ('function', 'printf'), ('function', 'print_r'), ('keyword', 'private')]
+[04/16/2016 11:31:49AM] INFO - done eval: success
+[04/16/2016 11:31:49AM] INFO - Autocomplete called (PHP) [cplns]
+[04/16/2016 11:31:53AM] INFO - eval 'ech' at listing-front-end.php#60  <Trigger 'php-complete-functions' at 1522>
+[04/16/2016 11:31:53AM] INFO - function_names_from_scope_starting_with_expr:: expr: 'ech', scoperef: (<Element 'scope' at 0x7fc2bd6e68c0>, ['wdm_change_grid_layout']) for ('locals', 'namespace', 'globals', 'imports')
+[04/16/2016 11:31:53AM] INFO - function_names_from_scope_starting_with_expr:: adding locals: []
+[04/16/2016 11:31:53AM] INFO - function_names_from_scope_starting_with_expr:: adding globals: []
+[04/16/2016 11:31:53AM] INFO - is blob '/inc/widgets/class-widget-home-listings.php' from <PHP curdirlib>? no
+[04/16/2016 11:31:53AM] INFO - is blob '/inc/widgets/class-widget-home-listings.php' from <PHP extradirslib>? yes
+[04/16/2016 11:31:53AM] INFO - function_names_from_scope_starting_with_expr:: adding imports: []
+[04/16/2016 11:31:53AM] INFO - constant_names_from_scope_starting_with_expr:: expr: 'ech', scoperef: (<Element 'scope' at 0x7fc2bd6e68c0>, ['wdm_change_grid_layout']) for ('globals', 'imports', 'builtins')
+[04/16/2016 11:31:53AM] INFO - constant_names_from_scope_starting_with_expr:: adding globals: []
+[04/16/2016 11:31:53AM] INFO - is blob '/inc/widgets/class-widget-home-listings.php' from <PHP curdirlib>? no
+[04/16/2016 11:31:53AM] INFO - is blob '/inc/widgets/class-widget-home-listings.php' from <PHP extradirslib>? yes
+[04/16/2016 11:31:53AM] INFO - constant_names_from_scope_starting_with_expr:: adding imports: []
+[04/16/2016 11:31:53AM] INFO - class_names_from_scope_starting_with_expr:: expr: 'ech', scoperef: (<Element 'scope' at 0x7fc2bd6e68c0>, ['wdm_change_grid_layout']) for ('locals', 'namespace', 'globals', 'imports')
+[04/16/2016 11:31:53AM] INFO - class_names_from_scope_starting_with_expr:: adding locals: []
+[04/16/2016 11:31:53AM] INFO - class_names_from_scope_starting_with_expr:: adding globals: []
+[04/16/2016 11:31:53AM] INFO - is blob '/inc/widgets/class-widget-home-listings.php' from <PHP curdirlib>? no
+[04/16/2016 11:31:53AM] INFO - is blob '/inc/widgets/class-widget-home-listings.php' from <PHP extradirslib>? yes
+[04/16/2016 11:31:53AM] INFO - class_names_from_scope_starting_with_expr:: adding imports: []
+[04/16/2016 11:31:53AM] INFO - namespace_names_from_scope_starting_with_expr:: expr: 'ech', scoperef: (<Element 'scope' at 0x7fc2bd6e68c0>, ['wdm_change_grid_layout']) for ('namespace', 'globals')
+[04/16/2016 11:31:53AM] INFO - namespace_names_from_scope_starting_with_expr:: adding globals: []
+[04/16/2016 11:31:53AM] INFO -     cplns: [('keyword', 'echo')]
+[04/16/2016 11:31:53AM] INFO - done eval: success
+[04/16/2016 11:31:53AM] INFO - Autocomplete called (PHP) [cplns]
+[04/16/2016 11:31:57AM] INFO - scan_purelang: path: '/home/anish/project/andrey-listify-customization/wp-vagrant/wordpress/src/wp-content/themes/listify-child/inc/listing-front-end.php' lang: PHP
+[04/16/2016 11:31:57AM] INFO - eval 'pre' at listing-front-end.php#60  <Trigger 'php-complete-functions' at 1522>
+[04/16/2016 11:31:57AM] INFO - function_names_from_scope_starting_with_expr:: expr: 'pre', scoperef: (<Element 'scope' at 0x7fc29eb89320>, ['wdm_change_grid_layout']) for ('locals', 'namespace', 'globals', 'imports')
+[04/16/2016 11:31:57AM] INFO - function_names_from_scope_starting_with_expr:: adding locals: []
+[04/16/2016 11:31:57AM] INFO - function_names_from_scope_starting_with_expr:: adding globals: []
+[04/16/2016 11:31:57AM] INFO - is blob '/inc/widgets/class-widget-home-listings.php' from <PHP curdirlib>? no
+[04/16/2016 11:31:57AM] INFO - is blob '/inc/widgets/class-widget-home-listings.php' from <PHP extradirslib>? yes
+[04/16/2016 11:31:57AM] INFO - function_names_from_scope_starting_with_expr:: adding imports: []
+[04/16/2016 11:31:57AM] INFO - constant_names_from_scope_starting_with_expr:: expr: 'pre', scoperef: (<Element 'scope' at 0x7fc29eb89320>, ['wdm_change_grid_layout']) for ('globals', 'imports', 'builtins')
+[04/16/2016 11:31:57AM] INFO - constant_names_from_scope_starting_with_expr:: adding globals: []
+[04/16/2016 11:31:57AM] INFO - is blob '/inc/widgets/class-widget-home-listings.php' from <PHP curdirlib>? no
+[04/16/2016 11:31:57AM] INFO - is blob '/inc/widgets/class-widget-home-listings.php' from <PHP extradirslib>? yes
+[04/16/2016 11:31:57AM] INFO - constant_names_from_scope_starting_with_expr:: adding imports: []
+[04/16/2016 11:31:57AM] INFO - class_names_from_scope_starting_with_expr:: expr: 'pre', scoperef: (<Element 'scope' at 0x7fc29eb89320>, ['wdm_change_grid_layout']) for ('locals', 'namespace', 'globals', 'imports')
+[04/16/2016 11:31:57AM] INFO - class_names_from_scope_starting_with_expr:: adding locals: []
+[04/16/2016 11:31:57AM] INFO - class_names_from_scope_starting_with_expr:: adding globals: []
+[04/16/2016 11:31:57AM] INFO - is blob '/inc/widgets/class-widget-home-listings.php' from <PHP curdirlib>? no
+[04/16/2016 11:31:57AM] INFO - is blob '/inc/widgets/class-widget-home-listings.php' from <PHP extradirslib>? yes
+[04/16/2016 11:31:57AM] INFO - class_names_from_scope_starting_with_expr:: adding imports: []
+[04/16/2016 11:31:57AM] INFO - namespace_names_from_scope_starting_with_expr:: expr: 'pre', scoperef: (<Element 'scope' at 0x7fc29eb89320>, ['wdm_change_grid_layout']) for ('namespace', 'globals')
+[04/16/2016 11:31:57AM] INFO - namespace_names_from_scope_starting_with_expr:: adding globals: []
+[04/16/2016 11:31:57AM] INFO -     cplns: [('function', 'preg_filter'), ('function', 'preg_grep'), ('function', 'preg_last_error'), ('function', 'preg_match'), ('function', 'preg_match_all'), ('function', 'preg_quote'), ('function', 'preg_replace'), ('function', 'preg_replace_callback'), ('function', 'preg_split'), ('function', 'prev')]
+[04/16/2016 11:31:57AM] INFO - done eval: success
+[04/16/2016 11:31:57AM] INFO - Autocomplete called (PHP) [cplns]
+[04/16/2016 11:32:10AM] INFO - scan_purelang: path: '/home/anish/project/andrey-listify-customization/wp-vagrant/wordpress/src/wp-content/themes/listify-child/inc/listing-front-end.php' lang: PHP
+[04/16/2016 11:32:10AM] INFO - eval 'err' at listing-front-end.php#60  <Trigger 'php-complete-functions' at 1522>
+[04/16/2016 11:32:10AM] INFO - function_names_from_scope_starting_with_expr:: expr: 'err', scoperef: (<Element 'scope' at 0x7fc2bd6e68c0>, ['wdm_change_grid_layout']) for ('locals', 'namespace', 'globals', 'imports')
+[04/16/2016 11:32:10AM] INFO - function_names_from_scope_starting_with_expr:: adding locals: []
+[04/16/2016 11:32:10AM] INFO - function_names_from_scope_starting_with_expr:: adding globals: []
+[04/16/2016 11:32:10AM] INFO - is blob '/inc/widgets/class-widget-home-listings.php' from <PHP curdirlib>? no
+[04/16/2016 11:32:10AM] INFO - is blob '/inc/widgets/class-widget-home-listings.php' from <PHP extradirslib>? yes
+[04/16/2016 11:32:10AM] INFO - function_names_from_scope_starting_with_expr:: adding imports: []
+[04/16/2016 11:32:10AM] INFO - constant_names_from_scope_starting_with_expr:: expr: 'err', scoperef: (<Element 'scope' at 0x7fc2bd6e68c0>, ['wdm_change_grid_layout']) for ('globals', 'imports', 'builtins')
+[04/16/2016 11:32:10AM] INFO - constant_names_from_scope_starting_with_expr:: adding globals: []
+[04/16/2016 11:32:10AM] INFO - is blob '/inc/widgets/class-widget-home-listings.php' from <PHP curdirlib>? no
+[04/16/2016 11:32:10AM] INFO - is blob '/inc/widgets/class-widget-home-listings.php' from <PHP extradirslib>? yes
+[04/16/2016 11:32:10AM] INFO - constant_names_from_scope_starting_with_expr:: adding imports: []
+[04/16/2016 11:32:10AM] INFO - class_names_from_scope_starting_with_expr:: expr: 'err', scoperef: (<Element 'scope' at 0x7fc2bd6e68c0>, ['wdm_change_grid_layout']) for ('locals', 'namespace', 'globals', 'imports')
+[04/16/2016 11:32:10AM] INFO - class_names_from_scope_starting_with_expr:: adding locals: []
+[04/16/2016 11:32:10AM] INFO - class_names_from_scope_starting_with_expr:: adding globals: []
+[04/16/2016 11:32:10AM] INFO - is blob '/inc/widgets/class-widget-home-listings.php' from <PHP curdirlib>? no
+[04/16/2016 11:32:10AM] INFO - is blob '/inc/widgets/class-widget-home-listings.php' from <PHP extradirslib>? yes
+[04/16/2016 11:32:10AM] INFO - class_names_from_scope_starting_with_expr:: adding imports: []
+[04/16/2016 11:32:10AM] INFO - namespace_names_from_scope_starting_with_expr:: expr: 'err', scoperef: (<Element 'scope' at 0x7fc2bd6e68c0>, ['wdm_change_grid_layout']) for ('namespace', 'globals')
+[04/16/2016 11:32:10AM] INFO - namespace_names_from_scope_starting_with_expr:: adding globals: []
+[04/16/2016 11:32:10AM] INFO -     cplns: [('function', 'error_get_last'), ('function', 'error_log'), ('function', 'error_reporting')]
+[04/16/2016 11:32:10AM] INFO - done eval: success
+[04/16/2016 11:32:10AM] INFO - Autocomplete called (PHP) [cplns]
+[04/16/2016 11:32:13AM] INFO - eval 'err' at listing-front-end.php#60  <Trigger 'php-complete-functions' at 1522>
+[04/16/2016 11:32:13AM] INFO - function_names_from_scope_starting_with_expr:: expr: 'err', scoperef: (<Element 'scope' at 0x7fc29eb89320>, ['wdm_change_grid_layout']) for ('locals', 'namespace', 'globals', 'imports')
+[04/16/2016 11:32:13AM] INFO - function_names_from_scope_starting_with_expr:: adding locals: []
+[04/16/2016 11:32:13AM] INFO - function_names_from_scope_starting_with_expr:: adding globals: []
+[04/16/2016 11:32:13AM] INFO - is blob '/inc/widgets/class-widget-home-listings.php' from <PHP curdirlib>? no
+[04/16/2016 11:32:13AM] INFO - is blob '/inc/widgets/class-widget-home-listings.php' from <PHP extradirslib>? yes
+[04/16/2016 11:32:13AM] INFO - function_names_from_scope_starting_with_expr:: adding imports: []
+[04/16/2016 11:32:13AM] INFO - constant_names_from_scope_starting_with_expr:: expr: 'err', scoperef: (<Element 'scope' at 0x7fc29eb89320>, ['wdm_change_grid_layout']) for ('globals', 'imports', 'builtins')
+[04/16/2016 11:32:13AM] INFO - constant_names_from_scope_starting_with_expr:: adding globals: []
+[04/16/2016 11:32:13AM] INFO - is blob '/inc/widgets/class-widget-home-listings.php' from <PHP curdirlib>? no
+[04/16/2016 11:32:13AM] INFO - is blob '/inc/widgets/class-widget-home-listings.php' from <PHP extradirslib>? yes
+[04/16/2016 11:32:13AM] INFO - constant_names_from_scope_starting_with_expr:: adding imports: []
+[04/16/2016 11:32:13AM] INFO - class_names_from_scope_starting_with_expr:: expr: 'err', scoperef: (<Element 'scope' at 0x7fc29eb89320>, ['wdm_change_grid_layout']) for ('locals', 'namespace', 'globals', 'imports')
+[04/16/2016 11:32:13AM] INFO - class_names_from_scope_starting_with_expr:: adding locals: []
+[04/16/2016 11:32:13AM] INFO - class_names_from_scope_starting_with_expr:: adding globals: []
+[04/16/2016 11:32:13AM] INFO - is blob '/inc/widgets/class-widget-home-listings.php' from <PHP curdirlib>? no
+[04/16/2016 11:32:13AM] INFO - is blob '/inc/widgets/class-widget-home-listings.php' from <PHP extradirslib>? yes
+[04/16/2016 11:32:13AM] INFO - class_names_from_scope_starting_with_expr:: adding imports: []
+[04/16/2016 11:32:13AM] INFO - namespace_names_from_scope_starting_with_expr:: expr: 'err', scoperef: (<Element 'scope' at 0x7fc29eb89320>, ['wdm_change_grid_layout']) for ('namespace', 'globals')
+[04/16/2016 11:32:13AM] INFO - namespace_names_from_scope_starting_with_expr:: adding globals: []
+[04/16/2016 11:32:13AM] INFO -     cplns: [('function', 'error_get_last'), ('function', 'error_log'), ('function', 'error_reporting')]
+[04/16/2016 11:32:13AM] INFO - done eval: success
+[04/16/2016 11:32:13AM] INFO - Autocomplete called (PHP) [cplns]
+[04/16/2016 11:32:16AM] INFO - eval 'eco' at listing-front-end.php#60  <Trigger 'php-complete-functions' at 1522>
+[04/16/2016 11:32:16AM] INFO - function_names_from_scope_starting_with_expr:: expr: 'eco', scoperef: (<Element 'scope' at 0x7fc2bd6e68c0>, ['wdm_change_grid_layout']) for ('locals', 'namespace', 'globals', 'imports')
+[04/16/2016 11:32:16AM] INFO - function_names_from_scope_starting_with_expr:: adding locals: []
+[04/16/2016 11:32:16AM] INFO - function_names_from_scope_starting_with_expr:: adding globals: []
+[04/16/2016 11:32:16AM] INFO - is blob '/inc/widgets/class-widget-home-listings.php' from <PHP curdirlib>? no
+[04/16/2016 11:32:16AM] INFO - is blob '/inc/widgets/class-widget-home-listings.php' from <PHP extradirslib>? yes
+[04/16/2016 11:32:16AM] INFO - function_names_from_scope_starting_with_expr:: adding imports: []
+[04/16/2016 11:32:16AM] INFO - constant_names_from_scope_starting_with_expr:: expr: 'eco', scoperef: (<Element 'scope' at 0x7fc2bd6e68c0>, ['wdm_change_grid_layout']) for ('globals', 'imports', 'builtins')
+[04/16/2016 11:32:16AM] INFO - constant_names_from_scope_starting_with_expr:: adding globals: []
+[04/16/2016 11:32:16AM] INFO - is blob '/inc/widgets/class-widget-home-listings.php' from <PHP curdirlib>? no
+[04/16/2016 11:32:16AM] INFO - is blob '/inc/widgets/class-widget-home-listings.php' from <PHP extradirslib>? yes
+[04/16/2016 11:32:16AM] INFO - constant_names_from_scope_starting_with_expr:: adding imports: []
+[04/16/2016 11:32:16AM] INFO - class_names_from_scope_starting_with_expr:: expr: 'eco', scoperef: (<Element 'scope' at 0x7fc2bd6e68c0>, ['wdm_change_grid_layout']) for ('locals', 'namespace', 'globals', 'imports')
+[04/16/2016 11:32:16AM] INFO - class_names_from_scope_starting_with_expr:: adding locals: []
+[04/16/2016 11:32:16AM] INFO - class_names_from_scope_starting_with_expr:: adding globals: []
+[04/16/2016 11:32:16AM] INFO - is blob '/inc/widgets/class-widget-home-listings.php' from <PHP curdirlib>? no
+[04/16/2016 11:32:16AM] INFO - is blob '/inc/widgets/class-widget-home-listings.php' from <PHP extradirslib>? yes
+[04/16/2016 11:32:16AM] INFO - class_names_from_scope_starting_with_expr:: adding imports: []
+[04/16/2016 11:32:16AM] INFO - namespace_names_from_scope_starting_with_expr:: expr: 'eco', scoperef: (<Element 'scope' at 0x7fc2bd6e68c0>, ['wdm_change_grid_layout']) for ('namespace', 'globals')
+[04/16/2016 11:32:16AM] INFO - namespace_names_from_scope_starting_with_expr:: adding globals: []
+[04/16/2016 11:32:16AM] INFO -     cplns: []
+[04/16/2016 11:32:16AM] INFO - done eval: success
+[04/16/2016 11:32:18AM] INFO - eval 'ecc' at listing-front-end.php#60  <Trigger 'php-complete-functions' at 1522>
+[04/16/2016 11:32:18AM] INFO - function_names_from_scope_starting_with_expr:: expr: 'ecc', scoperef: (<Element 'scope' at 0x7fc29eb89320>, ['wdm_change_grid_layout']) for ('locals', 'namespace', 'globals', 'imports')
+[04/16/2016 11:32:18AM] INFO - function_names_from_scope_starting_with_expr:: adding locals: []
+[04/16/2016 11:32:18AM] INFO - function_names_from_scope_starting_with_expr:: adding globals: []
+[04/16/2016 11:32:18AM] INFO - is blob '/inc/widgets/class-widget-home-listings.php' from <PHP curdirlib>? no
+[04/16/2016 11:32:18AM] INFO - is blob '/inc/widgets/class-widget-home-listings.php' from <PHP extradirslib>? yes
+[04/16/2016 11:32:18AM] INFO - function_names_from_scope_starting_with_expr:: adding imports: []
+[04/16/2016 11:32:18AM] INFO - constant_names_from_scope_starting_with_expr:: expr: 'ecc', scoperef: (<Element 'scope' at 0x7fc29eb89320>, ['wdm_change_grid_layout']) for ('globals', 'imports', 'builtins')
+[04/16/2016 11:32:18AM] INFO - constant_names_from_scope_starting_with_expr:: adding globals: []
+[04/16/2016 11:32:18AM] INFO - is blob '/inc/widgets/class-widget-home-listings.php' from <PHP curdirlib>? no
+[04/16/2016 11:32:18AM] INFO - is blob '/inc/widgets/class-widget-home-listings.php' from <PHP extradirslib>? yes
+[04/16/2016 11:32:18AM] INFO - constant_names_from_scope_starting_with_expr:: adding imports: []
+[04/16/2016 11:32:18AM] INFO - class_names_from_scope_starting_with_expr:: expr: 'ecc', scoperef: (<Element 'scope' at 0x7fc29eb89320>, ['wdm_change_grid_layout']) for ('locals', 'namespace', 'globals', 'imports')
+[04/16/2016 11:32:18AM] INFO - class_names_from_scope_starting_with_expr:: adding locals: []
+[04/16/2016 11:32:18AM] INFO - class_names_from_scope_starting_with_expr:: adding globals: []
+[04/16/2016 11:32:18AM] INFO - is blob '/inc/widgets/class-widget-home-listings.php' from <PHP curdirlib>? no
+[04/16/2016 11:32:18AM] INFO - is blob '/inc/widgets/class-widget-home-listings.php' from <PHP extradirslib>? yes
+[04/16/2016 11:32:18AM] INFO - class_names_from_scope_starting_with_expr:: adding imports: []
+[04/16/2016 11:32:18AM] INFO - namespace_names_from_scope_starting_with_expr:: expr: 'ecc', scoperef: (<Element 'scope' at 0x7fc29eb89320>, ['wdm_change_grid_layout']) for ('namespace', 'globals')
+[04/16/2016 11:32:18AM] INFO - namespace_names_from_scope_starting_with_expr:: adding globals: []
+[04/16/2016 11:32:18AM] INFO -     cplns: []
+[04/16/2016 11:32:18AM] INFO - done eval: success
+[04/16/2016 11:32:21AM] INFO - scan_purelang: path: '/home/anish/project/andrey-listify-customization/wp-vagrant/wordpress/src/wp-content/themes/listify-child/inc/listing-front-end.php' lang: PHP
+[04/16/2016 11:32:21AM] INFO - eval 'ech' at listing-front-end.php#60  <Trigger 'php-complete-functions' at 1522>
+[04/16/2016 11:32:21AM] INFO - function_names_from_scope_starting_with_expr:: expr: 'ech', scoperef: (<Element 'scope' at 0x7fc29eafaed8>, ['wdm_change_grid_layout']) for ('locals', 'namespace', 'globals', 'imports')
+[04/16/2016 11:32:21AM] INFO - function_names_from_scope_starting_with_expr:: adding locals: []
+[04/16/2016 11:32:21AM] INFO - function_names_from_scope_starting_with_expr:: adding globals: []
+[04/16/2016 11:32:21AM] INFO - is blob '/inc/widgets/class-widget-home-listings.php' from <PHP curdirlib>? no
+[04/16/2016 11:32:21AM] INFO - is blob '/inc/widgets/class-widget-home-listings.php' from <PHP extradirslib>? yes
+[04/16/2016 11:32:21AM] INFO - function_names_from_scope_starting_with_expr:: adding imports: []
+[04/16/2016 11:32:21AM] INFO - constant_names_from_scope_starting_with_expr:: expr: 'ech', scoperef: (<Element 'scope' at 0x7fc29eafaed8>, ['wdm_change_grid_layout']) for ('globals', 'imports', 'builtins')
+[04/16/2016 11:32:21AM] INFO - constant_names_from_scope_starting_with_expr:: adding globals: []
+[04/16/2016 11:32:21AM] INFO - is blob '/inc/widgets/class-widget-home-listings.php' from <PHP curdirlib>? no
+[04/16/2016 11:32:21AM] INFO - is blob '/inc/widgets/class-widget-home-listings.php' from <PHP extradirslib>? yes
+[04/16/2016 11:32:21AM] INFO - constant_names_from_scope_starting_with_expr:: adding imports: []
+[04/16/2016 11:32:21AM] INFO - class_names_from_scope_starting_with_expr:: expr: 'ech', scoperef: (<Element 'scope' at 0x7fc29eafaed8>, ['wdm_change_grid_layout']) for ('locals', 'namespace', 'globals', 'imports')
+[04/16/2016 11:32:21AM] INFO - class_names_from_scope_starting_with_expr:: adding locals: []
+[04/16/2016 11:32:21AM] INFO - class_names_from_scope_starting_with_expr:: adding globals: []
+[04/16/2016 11:32:21AM] INFO - is blob '/inc/widgets/class-widget-home-listings.php' from <PHP curdirlib>? no
+[04/16/2016 11:32:21AM] INFO - is blob '/inc/widgets/class-widget-home-listings.php' from <PHP extradirslib>? yes
+[04/16/2016 11:32:21AM] INFO - class_names_from_scope_starting_with_expr:: adding imports: []
+[04/16/2016 11:32:21AM] INFO - namespace_names_from_scope_starting_with_expr:: expr: 'ech', scoperef: (<Element 'scope' at 0x7fc29eafaed8>, ['wdm_change_grid_layout']) for ('namespace', 'globals')
+[04/16/2016 11:32:21AM] INFO - namespace_names_from_scope_starting_with_expr:: adding globals: []
+[04/16/2016 11:32:21AM] INFO -     cplns: [('keyword', 'echo')]
+[04/16/2016 11:32:21AM] INFO - done eval: success
+[04/16/2016 11:32:21AM] INFO - Autocomplete called (PHP) [cplns]
+[04/16/2016 11:32:30AM] INFO - eval 'ech' at listing-front-end.php#61  <Trigger 'php-complete-functions' at 1540>
+[04/16/2016 11:32:30AM] INFO - function_names_from_scope_starting_with_expr:: expr: 'ech', scoperef: (<Element 'scope' at 0x7fc29eb89320>, ['wdm_change_grid_layout']) for ('locals', 'namespace', 'globals', 'imports')
+[04/16/2016 11:32:30AM] INFO - function_names_from_scope_starting_with_expr:: adding locals: []
+[04/16/2016 11:32:30AM] INFO - function_names_from_scope_starting_with_expr:: adding globals: []
+[04/16/2016 11:32:30AM] INFO - is blob '/inc/widgets/class-widget-home-listings.php' from <PHP curdirlib>? no
+[04/16/2016 11:32:30AM] INFO - is blob '/inc/widgets/class-widget-home-listings.php' from <PHP extradirslib>? yes
+[04/16/2016 11:32:30AM] INFO - function_names_from_scope_starting_with_expr:: adding imports: []
+[04/16/2016 11:32:30AM] INFO - constant_names_from_scope_starting_with_expr:: expr: 'ech', scoperef: (<Element 'scope' at 0x7fc29eb89320>, ['wdm_change_grid_layout']) for ('globals', 'imports', 'builtins')
+[04/16/2016 11:32:30AM] INFO - constant_names_from_scope_starting_with_expr:: adding globals: []
+[04/16/2016 11:32:30AM] INFO - is blob '/inc/widgets/class-widget-home-listings.php' from <PHP curdirlib>? no
+[04/16/2016 11:32:30AM] INFO - is blob '/inc/widgets/class-widget-home-listings.php' from <PHP extradirslib>? yes
+[04/16/2016 11:32:30AM] INFO - constant_names_from_scope_starting_with_expr:: adding imports: []
+[04/16/2016 11:32:30AM] INFO - class_names_from_scope_starting_with_expr:: expr: 'ech', scoperef: (<Element 'scope' at 0x7fc29eb89320>, ['wdm_change_grid_layout']) for ('locals', 'namespace', 'globals', 'imports')
+[04/16/2016 11:32:30AM] INFO - class_names_from_scope_starting_with_expr:: adding locals: []
+[04/16/2016 11:32:30AM] INFO - class_names_from_scope_starting_with_expr:: adding globals: []
+[04/16/2016 11:32:30AM] INFO - is blob '/inc/widgets/class-widget-home-listings.php' from <PHP curdirlib>? no
+[04/16/2016 11:32:30AM] INFO - is blob '/inc/widgets/class-widget-home-listings.php' from <PHP extradirslib>? yes
+[04/16/2016 11:32:30AM] INFO - class_names_from_scope_starting_with_expr:: adding imports: []
+[04/16/2016 11:32:30AM] INFO - namespace_names_from_scope_starting_with_expr:: expr: 'ech', scoperef: (<Element 'scope' at 0x7fc29eb89320>, ['wdm_change_grid_layout']) for ('namespace', 'globals')
+[04/16/2016 11:32:30AM] INFO - namespace_names_from_scope_starting_with_expr:: adding globals: []
+[04/16/2016 11:32:30AM] INFO -     cplns: [('keyword', 'echo')]
+[04/16/2016 11:32:30AM] INFO - done eval: success
+[04/16/2016 11:32:30AM] INFO - Autocomplete called (PHP) [cplns]
+[04/16/2016 11:32:32AM] INFO - scan_purelang: path: '/home/anish/project/andrey-listify-customization/wp-vagrant/wordpress/src/wp-content/themes/listify-child/inc/listing-front-end.php' lang: PHP
+[04/16/2016 11:35:59AM] INFO - scan_purelang: path: '/home/anish/project/andrey-listify-customization/wp-vagrant/wordpress/src/wp-content/themes/listify-child/inc/listing-front-end.php' lang: PHP
+[04/16/2016 11:36:00AM] INFO - eval 'pri' at listing-front-end.php#61  <Trigger 'php-complete-functions' at 1540>
+[04/16/2016 11:36:00AM] INFO - function_names_from_scope_starting_with_expr:: expr: 'pri', scoperef: (<Element 'scope' at 0x7fc2bd6e68c0>, ['wdm_change_grid_layout']) for ('locals', 'namespace', 'globals', 'imports')
+[04/16/2016 11:36:00AM] INFO - function_names_from_scope_starting_with_expr:: adding locals: []
+[04/16/2016 11:36:00AM] INFO - function_names_from_scope_starting_with_expr:: adding globals: []
+[04/16/2016 11:36:00AM] INFO - is blob '/inc/widgets/class-widget-home-listings.php' from <PHP curdirlib>? no
+[04/16/2016 11:36:00AM] INFO - is blob '/inc/widgets/class-widget-home-listings.php' from <PHP extradirslib>? yes
+[04/16/2016 11:36:00AM] INFO - function_names_from_scope_starting_with_expr:: adding imports: []
+[04/16/2016 11:36:00AM] INFO - constant_names_from_scope_starting_with_expr:: expr: 'pri', scoperef: (<Element 'scope' at 0x7fc2bd6e68c0>, ['wdm_change_grid_layout']) for ('globals', 'imports', 'builtins')
+[04/16/2016 11:36:00AM] INFO - constant_names_from_scope_starting_with_expr:: adding globals: []
+[04/16/2016 11:36:00AM] INFO - is blob '/inc/widgets/class-widget-home-listings.php' from <PHP curdirlib>? no
+[04/16/2016 11:36:00AM] INFO - is blob '/inc/widgets/class-widget-home-listings.php' from <PHP extradirslib>? yes
+[04/16/2016 11:36:00AM] INFO - constant_names_from_scope_starting_with_expr:: adding imports: []
+[04/16/2016 11:36:00AM] INFO - class_names_from_scope_starting_with_expr:: expr: 'pri', scoperef: (<Element 'scope' at 0x7fc2bd6e68c0>, ['wdm_change_grid_layout']) for ('locals', 'namespace', 'globals', 'imports')
+[04/16/2016 11:36:00AM] INFO - class_names_from_scope_starting_with_expr:: adding locals: []
+[04/16/2016 11:36:00AM] INFO - class_names_from_scope_starting_with_expr:: adding globals: []
+[04/16/2016 11:36:00AM] INFO - is blob '/inc/widgets/class-widget-home-listings.php' from <PHP curdirlib>? no
+[04/16/2016 11:36:00AM] INFO - is blob '/inc/widgets/class-widget-home-listings.php' from <PHP extradirslib>? yes
+[04/16/2016 11:36:00AM] INFO - class_names_from_scope_starting_with_expr:: adding imports: []
+[04/16/2016 11:36:00AM] INFO - namespace_names_from_scope_starting_with_expr:: expr: 'pri', scoperef: (<Element 'scope' at 0x7fc2bd6e68c0>, ['wdm_change_grid_layout']) for ('namespace', 'globals')
+[04/16/2016 11:36:00AM] INFO - namespace_names_from_scope_starting_with_expr:: adding globals: []
+[04/16/2016 11:36:00AM] INFO -     cplns: [('keyword', 'print'), ('function', 'printf'), ('function', 'print_r'), ('keyword', 'private')]
+[04/16/2016 11:36:00AM] INFO - done eval: success
+[04/16/2016 11:36:00AM] INFO - Autocomplete called (PHP) [cplns]
+[04/16/2016 11:37:25AM] INFO - scan_purelang: path: '/home/anish/project/andrey-listify-customization/wp-vagrant/wordpress/src/wp-content/themes/listify-child/inc/listing-front-end.php' lang: PHP
+[04/16/2016 11:52:49AM] INFO - scan_purelang: path: '/home/anish/project/andrey-listify-customization/wp-vagrant/wordpress/src/wp-content/themes/listify-child/inc/listing-front-end.php' lang: PHP
+[04/16/2016 06:53:07PM] INFO - scan_purelang: path: '/home/anish/project/andrey-listify-customization/wp-vagrant/wordpress/wp-config.php' lang: PHP
+[04/16/2016 06:53:07PM] INFO - eval 'tru' at wp-config.php#80  <Trigger 'php-complete-functions' at 2773>
+[04/16/2016 06:53:07PM] INFO - function_names_from_scope_starting_with_expr:: expr: 'tru', scoperef: (<Element 'scope' at 0x7fc2bc07a5f0>, []) for ('locals', 'namespace', 'globals', 'imports')
+[04/16/2016 06:53:07PM] INFO - function_names_from_scope_starting_with_expr:: adding locals: []
+[04/16/2016 06:53:07PM] INFO - function_names_from_scope_starting_with_expr:: adding globals: []
+[04/16/2016 06:53:07PM] INFO - is blob 'wp-settings.php' from <PHP curdirlib>? no
+[04/16/2016 06:53:07PM] INFO - is blob 'wp-settings.php' from <PHP extradirslib>? no
+[04/16/2016 06:53:07PM] INFO - is blob 'wp-settings.php' from <PHP inilib>? no
+[04/16/2016 06:53:07PM] INFO - is blob 'wp-settings.php' from <PHP cataloglib: >? no
+[04/16/2016 06:53:07PM] INFO - is blob 'wp-settings.php' from <php-5.5 stdlib>? no
+[04/16/2016 06:53:07PM] INFO - constant_names_from_scope_starting_with_expr:: expr: 'tru', scoperef: (<Element 'scope' at 0x7fc2bc07a5f0>, []) for ('globals', 'imports', 'builtins')
+[04/16/2016 06:53:07PM] INFO - constant_names_from_scope_starting_with_expr:: adding globals: []
+[04/16/2016 06:53:07PM] INFO - is blob 'wp-settings.php' from <PHP curdirlib>? no
+[04/16/2016 06:53:07PM] INFO - is blob 'wp-settings.php' from <PHP extradirslib>? no
+[04/16/2016 06:53:07PM] INFO - is blob 'wp-settings.php' from <PHP inilib>? no
+[04/16/2016 06:53:07PM] INFO - is blob 'wp-settings.php' from <PHP cataloglib: >? no
+[04/16/2016 06:53:07PM] INFO - is blob 'wp-settings.php' from <php-5.5 stdlib>? no
+[04/16/2016 06:53:07PM] INFO - class_names_from_scope_starting_with_expr:: expr: 'tru', scoperef: (<Element 'scope' at 0x7fc2bc07a5f0>, []) for ('locals', 'namespace', 'globals', 'imports')
+[04/16/2016 06:53:07PM] INFO - class_names_from_scope_starting_with_expr:: adding locals: []
+[04/16/2016 06:53:07PM] INFO - class_names_from_scope_starting_with_expr:: adding globals: []
+[04/16/2016 06:53:07PM] INFO - is blob 'wp-settings.php' from <PHP curdirlib>? no
+[04/16/2016 06:53:07PM] INFO - is blob 'wp-settings.php' from <PHP extradirslib>? no
+[04/16/2016 06:53:07PM] INFO - is blob 'wp-settings.php' from <PHP inilib>? no
+[04/16/2016 06:53:07PM] INFO - is blob 'wp-settings.php' from <PHP cataloglib: >? no
+[04/16/2016 06:53:07PM] INFO - is blob 'wp-settings.php' from <php-5.5 stdlib>? no
+[04/16/2016 06:53:07PM] INFO - namespace_names_from_scope_starting_with_expr:: expr: 'tru', scoperef: (<Element 'scope' at 0x7fc2bc07a5f0>, []) for ('namespace', 'globals')
+[04/16/2016 06:53:07PM] INFO - namespace_names_from_scope_starting_with_expr:: adding globals: []
+[04/16/2016 06:53:07PM] INFO -     cplns: [('keyword', 'true')]
+[04/16/2016 06:53:07PM] INFO - done eval: success
+[04/16/2016 06:53:07PM] INFO - Autocomplete called (PHP) [cplns]
+[04/16/2016 06:57:09PM] INFO - scan_purelang: path: '/home/anish/project/andrey-listify-customization/wp-vagrant/wordpress/wp-config.php' lang: PHP
+[04/16/2016 06:57:10PM] INFO - eval 'fal' at wp-config.php#80  <Trigger 'php-complete-functions' at 2773>
+[04/16/2016 06:57:10PM] INFO - function_names_from_scope_starting_with_expr:: expr: 'fal', scoperef: (<Element 'scope' at 0x7fc2bc032050>, []) for ('locals', 'namespace', 'globals', 'imports')
+[04/16/2016 06:57:10PM] INFO - function_names_from_scope_starting_with_expr:: adding locals: []
+[04/16/2016 06:57:10PM] INFO - function_names_from_scope_starting_with_expr:: adding globals: []
+[04/16/2016 06:57:10PM] INFO - is blob 'wp-settings.php' from <PHP curdirlib>? no
+[04/16/2016 06:57:10PM] INFO - is blob 'wp-settings.php' from <PHP extradirslib>? no
+[04/16/2016 06:57:10PM] INFO - is blob 'wp-settings.php' from <PHP inilib>? no
+[04/16/2016 06:57:10PM] INFO - is blob 'wp-settings.php' from <PHP cataloglib: >? no
+[04/16/2016 06:57:10PM] INFO - is blob 'wp-settings.php' from <php-5.5 stdlib>? no
+[04/16/2016 06:57:10PM] INFO - constant_names_from_scope_starting_with_expr:: expr: 'fal', scoperef: (<Element 'scope' at 0x7fc2bc032050>, []) for ('globals', 'imports', 'builtins')
+[04/16/2016 06:57:10PM] INFO - constant_names_from_scope_starting_with_expr:: adding globals: []
+[04/16/2016 06:57:10PM] INFO - is blob 'wp-settings.php' from <PHP curdirlib>? no
+[04/16/2016 06:57:10PM] INFO - is blob 'wp-settings.php' from <PHP extradirslib>? no
+[04/16/2016 06:57:10PM] INFO - is blob 'wp-settings.php' from <PHP inilib>? no
+[04/16/2016 06:57:10PM] INFO - is blob 'wp-settings.php' from <PHP cataloglib: >? no
+[04/16/2016 06:57:10PM] INFO - is blob 'wp-settings.php' from <php-5.5 stdlib>? no
+[04/16/2016 06:57:10PM] INFO - class_names_from_scope_starting_with_expr:: expr: 'fal', scoperef: (<Element 'scope' at 0x7fc2bc032050>, []) for ('locals', 'namespace', 'globals', 'imports')
+[04/16/2016 06:57:10PM] INFO - class_names_from_scope_starting_with_expr:: adding locals: []
+[04/16/2016 06:57:10PM] INFO - class_names_from_scope_starting_with_expr:: adding globals: []
+[04/16/2016 06:57:10PM] INFO - is blob 'wp-settings.php' from <PHP curdirlib>? no
+[04/16/2016 06:57:10PM] INFO - is blob 'wp-settings.php' from <PHP extradirslib>? no
+[04/16/2016 06:57:10PM] INFO - is blob 'wp-settings.php' from <PHP inilib>? no
+[04/16/2016 06:57:10PM] INFO - is blob 'wp-settings.php' from <PHP cataloglib: >? no
+[04/16/2016 06:57:10PM] INFO - is blob 'wp-settings.php' from <php-5.5 stdlib>? no
+[04/16/2016 06:57:10PM] INFO - namespace_names_from_scope_starting_with_expr:: expr: 'fal', scoperef: (<Element 'scope' at 0x7fc2bc032050>, []) for ('namespace', 'globals')
+[04/16/2016 06:57:10PM] INFO - namespace_names_from_scope_starting_with_expr:: adding globals: []
+[04/16/2016 06:57:10PM] INFO -     cplns: [('keyword', 'false')]
+[04/16/2016 06:57:10PM] INFO - done eval: success
+[04/16/2016 06:57:10PM] INFO - Autocomplete called (PHP) [cplns]
